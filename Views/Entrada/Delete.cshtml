@@ -1,0 +1,20 @@
+﻿@model MigracionControl.Models.Entrada
+
+<h2>Eliminar Entrada</h2>
+
+<h3>¿Está seguro de que desea eliminar esta entrada?</h3>
+
+<div>
+    <h4>@Model.FechaEntrada</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Lugar</dt>
+        <dd>@Model.LugarEntrada</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="EntradaID" />
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

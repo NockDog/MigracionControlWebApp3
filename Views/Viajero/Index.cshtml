@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MigracionControl.Models.Viajero>
+
+<h2>Lista de Viajeros</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Pasaporte</th>
+            <th>Nacionalidad</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var viajero in Model)
+        {
+            <tr>
+                <td>@viajero.Nombre</td>
+                <td>@viajero.Pasaporte</td>
+                <td>@viajero.Nacionalidad</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = viajero.ViajeroID })">Editar</a> |
+                    <a href="@Url.Action("Delete", new { id = viajero.ViajeroID })">Borrar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

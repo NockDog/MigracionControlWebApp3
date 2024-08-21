@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <title>@ViewData["Title"] - MigracionControl</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="@Url.Action("Index", "Viajero")">Viajeros</a></li>
+            <li><a href="@Url.Action("Index", "Entrada")">Entradas</a></li>
+            <li><a href="@Url.Action("Index", "Salida")">Salidas</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <footer>
+        <p>&copy; 2024 - MigracionControl</p>
+    </footer>
+</body>
+</html>

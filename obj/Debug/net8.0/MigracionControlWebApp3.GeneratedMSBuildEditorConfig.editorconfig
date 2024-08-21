@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MigracionControlWebApp3
+build_property.RootNamespace = MigracionControlWebApp3
+build_property.ProjectDir = C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Entrada/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Entrada/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Entrada/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Entrada/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Salida/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsaWRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Salida/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsaWRhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Salida/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsaWRhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Salida/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsaWRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Viajero/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhamVyb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Viajero/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhamVyb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Viajero/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhamVyb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/Viajero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhamVyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rtbri/desktop/Tarea/MigracionControlWebApp3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

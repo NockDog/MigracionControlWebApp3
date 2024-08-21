@@ -1,0 +1,22 @@
+﻿@model MigracionControl.Models.Viajero
+
+<h2>Eliminar Viajero</h2>
+
+<h3>¿Está seguro de que desea eliminar este viajero?</h3>
+
+<div>
+    <h4>@Model.Nombre</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Pasaporte</dt>
+        <dd>@Model.Pasaporte</dd>
+        <dt>Nacionalidad</dt>
+        <dd>@Model.Nacionalidad</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ViajeroID" />
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<MigracionControl.Models.Salida>
+
+<h2>Lista de Salidas</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Lugar</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var salida in Model)
+        {
+            <tr>
+                <td>@salida.FechaSalida</td>
+                <td>@salida.LugarSalida</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = salida.SalidaID })">Editar</a> |
+                    <a href="@Url.Action("Delete", new { id = salida.SalidaID })">Borrar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

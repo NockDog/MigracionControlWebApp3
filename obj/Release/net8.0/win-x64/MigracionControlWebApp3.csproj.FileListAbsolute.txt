@@ -1,0 +1,8 @@
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.csproj.AssemblyReference.cache
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.AssemblyInfoInputs.cache
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.AssemblyInfo.cs
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.csproj.CoreCompileInputs.cache
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.RazorAssemblyInfo.cache
+C:\Users\rtbri\desktop\Tarea\MigracionControlWebApp3\obj\Release\net8.0\win-x64\MigracionControlWebApp3.RazorAssemblyInfo.cs
